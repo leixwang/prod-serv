@@ -1,0 +1,11 @@
+*.bak
+go-serv*
+*.iml
+.idea/
+vendor/
+bin/
+.DS_Store
+*.tmp
+routers/commentsRouter_controllers.go*
+swagger/
+prod-serv*
